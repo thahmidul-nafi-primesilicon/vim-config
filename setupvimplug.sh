@@ -1,4 +1,4 @@
-mkdir ~/.config/nvim mkdir ~/.config/nvim/autoload mkdir ~/.config/nvim/vim-plug
+mkdir -p ~/.config/nvim mkdir ~/.config/nvim/autoload mkdir ~/.config/nvim/vim-plug
 
 git clone https://github.com/thahmidul-nafi-primesilicon/vim-config.git
 
